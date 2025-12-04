@@ -4,6 +4,8 @@ import jakarta.persistence.*;
 import lombok.*;
 
 import java.util.List;
+import java.time.LocalDate; // import inutile, pas utilisé
+
 
 @Entity
 @Getter
